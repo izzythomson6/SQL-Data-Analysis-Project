@@ -4,28 +4,28 @@ This project analyses email campaign engagement data using SQL and visualises th
 # Features and analysis
 **Email campaign Engagement Data:**
 
--Open rates, click through rates, unsubscribe rates
--Engagement trends over time (monthly)
--User level engagement analysis
--Peak days for engagement
+- Open rates, click through rates, unsubscribe rates
+- Engagement trends over time (monthly)
+- User level engagement analysis
+- Peak days for engagement
 
 **Techniques used:**
 
--Aggregate functions, CTEs, Window Functions
--Data manipulation 
+- Aggregate functions, CTEs, Window Functions
+- Data manipulation 
 
 **Data Visualisation:**
 
 **Visualisations created with Python using:**
 
--Pandas for data manipulation
--Matplotlib & seaborn for visualisations directly from SQLite query results
+- Pandas for data manipulation
+- Matplotlib & seaborn for visualisations directly from SQLite query results
 
 **Types of visualisations included:**
 
--bar charts showing open rates, click-through rates, and unsubscribe rates by campaign
--Line charts displaying monthly trends in open rates across campaigns 
--Weekly engagement patterns illustrating which days of the week have higher or lower open rates
+- bar charts showing open rates, click-through rates, and unsubscribe rates by campaign
+- Line charts displaying monthly trends in open rates across campaigns 
+- Weekly engagement patterns illustrating which days of the week have higher or lower open rates
 
 # Getting Started
 1) Clone the repository
@@ -35,9 +35,9 @@ This project analyses email campaign engagement data using SQL and visualises th
 
 # File Structure
 
--queries.sql - SQL queries for engagement metrics
--visualisations.py - Python scripts to generate data visualisations
--email_campaign_database.db - SQLite database file 
+- queries.sql - SQL queries for engagement metrics
+- visualisations.py - Python scripts to generate data visualisations
+- email_campaign_database.db - SQLite database file 
 
 SQL-Data-Analysis-Project/
 ├── queries.sql                  # SQL queries used in analysis
