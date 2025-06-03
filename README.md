@@ -31,3 +31,9 @@ queries.sql - SQL queries for engagement metrics
 visualisations.py - Python scripts to generate data visualisations
 email_campaign_database.db - SQLite database file 
 
+SQL-Data-Analysis-Project/
+├── queries.sql                  # SQL queries used in analysis
+├── visualisations.py           # Python script for all data visualizations
+├── email_campaign_data.db      # SQLite database (optional, if sharable)
+├── PowerBI/                    # (Optional) Power BI reports
+└── README.md                   # Project documentation
