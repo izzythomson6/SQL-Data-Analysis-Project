@@ -1,6 +1,6 @@
 # SQL-Data-Analysis-Project
 # Project Overview
-This project analyses email campaign engagement data using SQL and visualises the analysis using Python. The goal of this project is to extract insights from the data which could be used in a business setting to improve campaign performance. 
+This project analyses email campaign engagement data using SQL and visualises the analysis using Python and PowerBI. The goal of this project is to extract insights from the data which could be used in a business setting to improve campaign performance. 
 # Features and analysis
 **Email campaign Engagement Data:**
 
@@ -21,6 +21,8 @@ This project analyses email campaign engagement data using SQL and visualises th
 - Pandas for data manipulation
 - Matplotlib & seaborn for visualisations directly from SQLite query results
 
+**Visualisations created also using PowerBI**
+
 **Types of visualisations included:**
 
 - bar charts showing open rates, click-through rates, and unsubscribe rates by campaign
@@ -37,7 +39,8 @@ This project analyses email campaign engagement data using SQL and visualises th
 
 - queries.sql - SQL queries for engagement metrics
 - visualisations.py - Python scripts to generate data visualisations
-- email_campaign_database.db - SQLite database file 
+- email_campaign_database.db - SQLite database file
+- engagement data powerbi.pbix - PowerBI file containing 3 visuals
 
 SQL-Data-Analysis-Project/
 ├── queries.sql                  # SQL queries used in analysis
